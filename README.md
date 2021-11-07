@@ -1,4 +1,6 @@
-# vome
+# Vome
+
+This was a group project within Fall In | Vet Hackaton.
 
 Vome is web application designed to connect veterans in need with useful resources. Veterans or someone providing assistance to a veteran can use the map based interface to look for available services and volunteers in their area. The application also allows people interested in helping veterans to register with the application. Helpers are asked to submit a service or skill that they are willing to provide. Once registered, veterans will be able to find helpers using the map based interface. This application is still in development with many more features planned! 
 
